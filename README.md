@@ -1,5 +1,4 @@
-# Knowledge Aware State-Space Capsule Network (KCapMamba)  
-### For Multivariate Time Series Classification  
+# Knowledge Aware State-Space Capsule Network For Multivariate Time Series Classification  
 
 This study proposes KACapMamba, a Knowledge-Aware State-Space Capsule Network, which integrates three attentive Mamba blocks with a routing layer to achieve hierarchical temporal modeling.  
 
@@ -103,12 +102,12 @@ python3 main.py
 ├── processing/                 # Data preprocessing
 │   └── process.py              # Normalization, one-hot encoding, missing value handling
 ├── AVG_rank/                   # Statistical analysis tools
-│   └── avg_rank_calculator.py  # Compute average ranks across datasets
+│   └── avg_rank.py  # Compute average ranks across datasets
 ├── Statisticaltool/            # Significance testing
-│   └── p_value_analysis.py     # P-value calculation for performance comparison
+│   └── statistic.py     # P-value calculation for performance comparison
 └── data/                       # Dataset & logs
     ├── [UEA Datasets...]
-    └── log/                    # Training logs storage
+    └── ....                   # Other Datasets
 ```  
 
 
