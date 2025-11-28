@@ -128,7 +128,7 @@ If you use this code or model in your research, please cite our work:
 
 
 ## Contact  
-For questions, issues, or collaboration inquiries, please open an issue in the repository or contact [your-email@example.com].  
+For questions, issues, or collaboration inquiries, please open an issue in the repository.  
 
 ---  
 *Last updated: 2025*
